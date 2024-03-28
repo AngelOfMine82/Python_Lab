@@ -1,2 +1,2 @@
-# Python_Lab
-Mathematical Applications with Python
+# Mathematische Anwendungen TEL22EE1
+
